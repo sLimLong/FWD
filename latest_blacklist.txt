@@ -1,21 +1,3 @@
-# on Mon, 28 Apr 2025 19:30:38 +0000 Last 10days Blacklist IPs
-###############################################################################
-# LIVE BLACKLIST IPv4/IPv6 ADDRESSES DATABASE
-# URL: https://myip.ms/browse/blacklist
-# Copyright 2025, Myip.ms
-#
-# File Format: ..IPAddress.. (compatible with cPanel, CSF Firewall)
-#
-# Notes for CSF Firewall: 
-# Add/Replace Blacklist IPs to /etc/csf/csf.deny
-# DENY_IP_LIMIT - Maximum number of IP addresses that can be saved in /etc/csf/csf.deny file (default: 100)
-# To Increase Value - Go to WHM -> plugins -> configserver security & firewall -> Firewall configuration 
-# (file: /etc/csf/csf.conf) -> and change the value to: DENY_IP_LIMIT = 0 (unlimited), after restart Firewall 
-###############################################################################
-#
-#  Myip.ms Blacklist IPs in this List: 831 ip (18 April 2025 - 28 April 2025)
-#
-
 18.97.9.174
 54.36.149.34
 64.124.8.135
